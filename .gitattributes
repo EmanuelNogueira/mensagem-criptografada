@@ -1,0 +1,5 @@
+*.enc -text
+*.md text eol=lf
+*.pub text eol=lf
+*.pem text eol=lf
+*.sha256 text eol=lf
